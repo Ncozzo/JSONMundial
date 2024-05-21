@@ -201,51 +201,51 @@
             "goals": 7
         },
         {
-            "rank": 2,
+            "rank": 3,
             "player": "Julian Alvarez",
             "team": "Argentina",
             "goals": 4
         },
         {
-            "rank": 2,
+            "rank": 3,
             "player": "Olivier Giroud",
             "team": "Francia",
             "goals": 4
         },
         {
-            "rank": 2,
-            "player": "Cristiano Ronaldo",
+            "rank": 5,
+            "player": "Marcus Rashford",
+            "team": "Inglaterra",
+            "goals": 3
+        },
+        {
+            "rank": 6,
+            "player": "Alvaro Morata",
+            "team": "España",
+            "goals": 3
+        },
+        {
+            "rank": 7,
+            "player": "Bukayo Saka",
+            "team": "Inglaterra",
+            "goals": 3
+        },
+        {
+            "rank": 8,
+            "player": "Cody Gakpo",
+            "team": "Holanda",
+            "goals": 3
+        },
+        {
+            "rank": 9,
+            "player": "Richarlison",
+            "team": "Brasil",
+            "goals": 3
+        },
+        {
+            "rank": 10,
+            "player": "Goncalo Ramos",
             "team": "Portugal",
-            "goals": 4
-        },
-        {
-            "rank": 6,
-            "player": "Kylian Mbappé",
-            "team": "France",
-            "goals": 4
-        },
-        {
-            "rank": 6,
-            "player": "Edinson Cavani",
-            "team": "Uruguay",
-            "goals": 3
-        },
-        {
-            "rank": 6,
-            "player": "Artem Dzyuba",
-            "team": "Russia",
-            "goals": 3
-        },
-        {
-            "rank": 6,
-            "player": "Mario Mandžukić",
-            "team": "Croatia",
-            "goals": 3
-        },
-        {
-            "rank": 6,
-            "player": "Ivan Perišić",
-            "team": "Croatia",
             "goals": 3
         }
     ]
