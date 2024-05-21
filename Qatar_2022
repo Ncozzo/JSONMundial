@@ -59,12 +59,12 @@
             {
                 "date": "2022-12-05",
                 "team1": "Brasil",
-                "team2": "Corea",
+                "team2": "Corea del Sur",
                 "score": "4-1",
                 "stadium": "974 Stadium",
                 "goals": {
                     "Brasil": ["Vinicius Junior", "Neymar Jr", "Richarlison", "Lucas Paqueta"],
-                    "Corea": ["Paik Seung-Ho"]
+                    "Corea del Sur": ["Paik Seung-Ho"]
                 }
             },
             {
@@ -96,7 +96,7 @@
                 "team1": "Brasil",
                 "team2": "Croacia",
                 "score": "1-1 (2-4 pen)",
-                "stadium": "Eduaction City Stadium",
+                "stadium": "Education City Stadium",
                 "goals": {
                     "Brasil": ["Neymar Jr"],
                     "Croacia": ["Bruno Petkovic"]
@@ -110,7 +110,7 @@
                 "stadium": "Lusail Stadium",
                 "goals": {
                     "Argentina": ["Nahuel Molina", "Lionel Messi"],
-                    "Belgium": ["Wout Weghorst (X2)"]
+                    "Holanda": ["Wout Weghorst (X2)"]
                 }
             },
             {
@@ -175,7 +175,7 @@
         ],
         "final": [
             {
-                "date": "2018-07-15",
+                "date": "2022-12-18",
                 "team1": "Argentina",
                 "team2": "Francia",
                 "score": "3-3 (4-2 pen)",
