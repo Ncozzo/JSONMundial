@@ -1,0 +1,252 @@
+{
+    "matches": {
+        "roundOf16": [
+            {
+                "date": "2022-12-03",
+                "team1": "Holanda",
+                "team2": "Estados Unidos",
+                "score": "3-1",
+                "stadium": "International Khalifa Stadium",
+                "goals": {
+                    "Holanda": ["Memphis Depay", "Daley Blind", "Denzel Dumfries"],
+                    "Estados Unidos": ["Haji Wright"]
+                }
+            },
+            {
+                "date": "2022-12-03",
+                "team1": "Argentina",
+                "team2": "Australia",
+                "score": "2-1",
+                "stadium": "Ahmed Bin Ali Stadium",
+                "goals": {
+                    "Argentina": ["Lionel Messi", "Julian Alvarez"],
+                    "Australia": ["Enzo Fernandez (e/c)"]
+                }
+            },
+            {
+                "date": "2022-12-04",
+                "team1": "Inglaterra",
+                "team2": "Senegal",
+                "score": "3-0",
+                "stadium": "Al Bayt Stadium",
+                "goals": {
+                    "Inglaterra": ["Jordan Henderson", "Harry Kane", "Bukayo Saka"],
+                    "Senegal": []
+                }
+            },
+            {
+                "date": "2022-12-04",
+                "team1": "Francia",
+                "team2": "Polonia",
+                "score": "3-1",
+                "stadium": "Al Thumama Stadium",
+                "goals": {
+                    "Francia": ["Olivier Giroud", "Kylian Mbappe (2)"],
+                    "Polonia": ["Robert Lewandowski"]
+                }
+            },
+            {
+                "date": "2022-12-05",
+                "team1": "Croacia",
+                "team2": "Japon",
+                "score": "1-1 (1-3 pen)",
+                "stadium": "Al Janoub Stadium",
+                "goals": {
+                    "Japon": ["Daizen Maeda"],
+                    "Croacia": ["Ivan Perisic"]
+                }
+            },
+            {
+                "date": "2022-12-05",
+                "team1": "Brasil",
+                "team2": "Corea",
+                "score": "4-1",
+                "stadium": "974 Stadium",
+                "goals": {
+                    "Brasil": ["Vinicius Junior", "Neymar", "Richarlison", "Lucas Paqueta"],
+                    "Corea": ["Paik Seung-Ho"]
+                }
+            },
+            {
+                "date": "2022-12-06",
+                "team1": "Marruecos",
+                "team2": "España",
+                "score": "0-0 (3-0 pen)",
+                "stadium": "Education City Stadium",
+                "goals": {
+                    "Marruecos": [],
+                    "España": []
+                }
+            },
+            {
+                "date": "2022-12-06",
+                "team1": "Portugal",
+                "team2": "Suiza",
+                "score": "6-1",
+                "stadium": "Lusail Stadium",
+                "goals": {
+                    "Portugal": ["Goncalo Ramos (3)", "Pepe", "Raphael Guerreiro", "Rafael Leao"],
+                    "Suiza": ["Manuel Akanji"]
+                }
+            }
+        ],
+        "quarterFinals": [
+            {
+                "date": "2018-07-06",
+                "team1": "Uruguay",
+                "team2": "France",
+                "score": "0-2",
+                "stadium": "Nizhny Novgorod Stadium, Nizhny Novgorod",
+                "goals": {
+                    "Uruguay": [],
+                    "France": ["Raphaël Varane", "Antoine Griezmann"]
+                }
+            },
+            {
+                "date": "2018-07-06",
+                "team1": "Brazil",
+                "team2": "Belgium",
+                "score": "1-2",
+                "stadium": "Kazan Arena, Kazan",
+                "goals": {
+                    "Brazil": ["Renato Augusto"],
+                    "Belgium": ["Fernandinho (own goal)", "Kevin De Bruyne"]
+                }
+            },
+            {
+                "date": "2018-07-07",
+                "team1": "Sweden",
+                "team2": "England",
+                "score": "0-2",
+                "stadium": "Samara Arena, Samara",
+                "goals": {
+                    "Sweden": [],
+                    "England": ["Harry Maguire", "Dele Alli"]
+                }
+            },
+            {
+                "date": "2018-07-07",
+                "team1": "Russia",
+                "team2": "Croatia",
+                "score": "2-2 (3-4 pen)",
+                "stadium": "Fisht Olympic Stadium, Sochi",
+                "goals": {
+                    "Russia": ["Denis Cheryshev", "Mario Fernandes"],
+                    "Croatia": ["Andrej Kramarić", "Domagoj Vida"]
+                }
+            }
+        ],
+        "semiFinals": [
+            {
+                "date": "2018-07-10",
+                "team1": "France",
+                "team2": "Belgium",
+                "score": "1-0",
+                "stadium": "Krestovsky Stadium, Saint Petersburg",
+                "goals": {
+                    "France": ["Samuel Umtiti"],
+                    "Belgium": []
+                }
+            },
+            {
+                "date": "2018-07-11",
+                "team1": "Croatia",
+                "team2": "England",
+                "score": "2-1",
+                "stadium": "Luzhniki Stadium, Moscow",
+                "goals": {
+                    "Croatia": ["Ivan Perišić", "Mario Mandžukić"],
+                    "England": ["Kieran Trippier"]
+                }
+            }
+        ],
+        "thirdPlace": [
+            {
+                "date": "2018-07-14",
+                "team1": "Belgium",
+                "team2": "England",
+                "score": "2-0",
+                "stadium": "Krestovsky Stadium, Saint Petersburg",
+                "goals": {
+                    "Belgium": ["Thomas Meunier", "Eden Hazard"],
+                    "England": []
+                }
+            }
+        ],
+        "final": [
+            {
+                "date": "2018-07-15",
+                "team1": "France",
+                "team2": "Croatia",
+                "score": "4-2",
+                "stadium": "Luzhniki Stadium, Moscow",
+                "goals": {
+                    "France": ["Mario Mandžukić (own goal)", "Antoine Griezmann", "Paul Pogba", "Kylian Mbappé"],
+                    "Croatia": ["Ivan Perišić", "Mario Mandžukić"]
+                }
+            }
+        ]
+    },
+    "topScorers": [
+        {
+            "rank": 1,
+            "player": "Harry Kane",
+            "team": "England",
+            "goals": 6
+        },
+        {
+            "rank": 2,
+            "player": "Antoine Griezmann",
+            "team": "France",
+            "goals": 4
+        },
+        {
+            "rank": 2,
+            "player": "Romelu Lukaku",
+            "team": "Belgium",
+            "goals": 4
+        },
+        {
+            "rank": 2,
+            "player": "Denis Cheryshev",
+            "team": "Russia",
+            "goals": 4
+        },
+        {
+            "rank": 2,
+            "player": "Cristiano Ronaldo",
+            "team": "Portugal",
+            "goals": 4
+        },
+        {
+            "rank": 6,
+            "player": "Kylian Mbappé",
+            "team": "France",
+            "goals": 4
+        },
+        {
+            "rank": 6,
+            "player": "Edinson Cavani",
+            "team": "Uruguay",
+            "goals": 3
+        },
+        {
+            "rank": 6,
+            "player": "Artem Dzyuba",
+            "team": "Russia",
+            "goals": 3
+        },
+        {
+            "rank": 6,
+            "player": "Mario Mandžukić",
+            "team": "Croatia",
+            "goals": 3
+        },
+        {
+            "rank": 6,
+            "player": "Ivan Perišić",
+            "team": "Croatia",
+            "goals": 3
+        }
+    ]
+}
