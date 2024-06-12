@@ -1,0 +1,248 @@
+{
+    "matches": {
+        "roundOf16": [
+            {
+                "date": "2010-06-26",
+                "team1": "Uruguay",
+                "team2": "Corea del Sur",
+                "score": "2-1",
+                "stadium": "Nelson Mandela Bay Stadium, Puerto Elizabeth",
+                "goals": {
+                    "Uruguay": ["Luis Suárez (2)"],
+                    "Corea del Sur": ["Lee Chung-yong"]
+                }
+            },
+            {
+                "date": "2010-06-26",
+                "team1": "Estados Unidos",
+                "team2": "Ghana",
+                "score": "1-2 (aet)",
+                "stadium": "Royal Bafokeng Stadium, Rustenburgo",
+                "goals": {
+                    "Estados Unidos": ["Landon Donovan"],
+                    "Ghana": ["Kevin-Prince Boateng", "Asamoah Gyan"]
+                }
+            },
+            {
+                "date": "2010-06-27",
+                "team1": "Alemania",
+                "team2": "Inglaterra",
+                "score": "4-1",
+                "stadium": "Free State Stadium, Bloemfontein",
+                "goals": {
+                    "Alemania": ["Miroslav Klose", "Lukas Podolski", "Thomas Müller (2)"],
+                    "Inglaterra": ["Matthew Upson"]
+                }
+            },
+            {
+                "date": "2010-06-27",
+                "team1": "Argentina",
+                "team2": "México",
+                "score": "3-1",
+                "stadium": "Soccer City, Johannesburgo",
+                "goals": {
+                    "Argentina": ["Carlos Tévez (2)", "Gonzalo Higuaín"],
+                    "México": ["Javier Hernández"]
+                }
+            },
+            {
+                "date": "2010-06-28",
+                "team1": "Holanda",
+                "team2": "Eslovaquia",
+                "score": "2-1",
+                "stadium": "Moses Mabhida Stadium, Durban",
+                "goals": {
+                    "Holanda": ["Arjen Robben", "Wesley Sneijder"],
+                    "Eslovaquia": ["Robert Vittek"]
+                }
+            },
+            {
+                "date": "2010-06-28",
+                "team1": "Brasil",
+                "team2": "Chile",
+                "score": "3-0",
+                "stadium": "Ellis Park Stadium, Johannesburgo",
+                "goals": {
+                    "Brasil": ["Juan", "Luis Fabiano", "Robinho"],
+                    "Chile": []
+                }
+            },
+            {
+                "date": "2010-06-29",
+                "team1": "Paraguay",
+                "team2": "Japón",
+                "score": "0-0 (5-3 pen)",
+                "stadium": "Loftus Versfeld Stadium, Pretoria",
+                "goals": {
+                    "Paraguay": [],
+                    "Japón": []
+                }
+            },
+            {
+                "date": "2010-06-29",
+                "team1": "España",
+                "team2": "Portugal",
+                "score": "1-0",
+                "stadium": "Cape Town Stadium, Ciudad del Cabo",
+                "goals": {
+                    "España": ["David Villa"],
+                    "Portugal": []
+                }
+            }
+        ],
+        "quarterFinals": [
+            {
+                "date": "2010-07-02",
+                "team1": "Holanda",
+                "team2": "Brasil",
+                "score": "2-1",
+                "stadium": "Nelson Mandela Bay Stadium, Puerto Elizabeth",
+                "goals": {
+                    "Holanda": ["Wesley Sneijder (2)"],
+                    "Brasil": ["Robinho"]
+                }
+            },
+            {
+                "date": "2010-07-02",
+                "team1": "Uruguay",
+                "team2": "Ghana",
+                "score": "1-1 (4-2 pen)",
+                "stadium": "Soccer City, Johannesburgo",
+                "goals": {
+                    "Uruguay": ["Diego Forlán"],
+                    "Ghana": ["Sulley Muntari"]
+                }
+            },
+            {
+                "date": "2010-07-03",
+                "team1": "Alemania",
+                "team2": "Argentina",
+                "score": "4-0",
+                "stadium": "Cape Town Stadium, Ciudad del Cabo",
+                "goals": {
+                    "Alemania": ["Thomas Müller", "Miroslav Klose (2)", "Arne Friedrich"]
+                }
+            },
+            {
+                "date": "2010-07-03",
+                "team1": "Paraguay",
+                "team2": "España",
+                "score": "0-1",
+                "stadium": "Ellis Park Stadium, Johannesburgo",
+                "goals": {
+                    "España": ["David Villa"]
+                }
+            }
+        ],
+        "semiFinals": [
+            {
+                "date": "2010-07-06",
+                "team1": "Uruguay",
+                "team2": "Holanda",
+                "score": "2-3",
+                "stadium": "Cape Town Stadium, Ciudad del Cabo",
+                "goals": {
+                    "Uruguay": ["Diego Forlán", "Maximiliano Pereira"],
+                    "Holanda": ["Giovanni van Bronckhorst", "Wesley Sneijder", "Arjen Robben"]
+                }
+            },
+            {
+                "date": "2010-07-07",
+                "team1": "Alemania",
+                "team2": "España",
+                "score": "0-1",
+                "stadium": "Moses Mabhida Stadium, Durban",
+                "goals": {
+                    "España": ["Carles Puyol"]
+                }
+            }
+        ],
+        "thirdPlace": [
+            {
+                "date": "2010-07-10",
+                "team1": "Uruguay",
+                "team2": "Alemania",
+                "score": "2-3",
+                "stadium": "Nelson Mandela Bay Stadium, Puerto Elizabeth",
+                "goals": {
+                    "Uruguay": ["Edinson Cavani", "Diego Forlán"],
+                    "Alemania": ["Thomas Müller", "Marcell Jansen", "Sami Khedira"]
+                }
+            }
+        ],
+        "final": [
+            {
+                "date": "2010-07-11",
+                "team1": "Holanda",
+                "team2": "España",
+                "score": "0-1 (aet)",
+                "stadium": "Soccer City, Johannesburgo",
+                "goals": {
+                    "España": ["Andrés Iniesta"]
+                }
+            }
+        ]
+    },
+    "topScorers": [
+        {
+            "rank": 1,
+            "player": "Thomas Müller",
+            "team": "Alemania",
+            "goals": 5
+        },
+        {
+            "rank": 2,
+            "player": "Wesley Sneijder",
+            "team": "Holanda",
+            "goals": 5
+        },
+        {
+            "rank": 3,
+            "player": "David Villa",
+            "team": "España",
+            "goals": 5
+        },
+        {
+            "rank": 4,
+            "player": "Diego Forlán",
+            "team": "Uruguay",
+            "goals": 5
+        },
+        {
+            "rank": 5,
+            "player": "Asamoah Gyan",
+            "team": "Ghana",
+            "goals": 3
+        },
+        {
+            "rank": 6,
+            "player": "Gonzalo Higuaín",
+            "team": "Argentina",
+            "goals": 4
+        },
+        {
+            "rank": 7,
+            "player": "Robert Vittek",
+            "team": "Eslovaquia",
+            "goals": 4
+        },
+        {
+            "rank": 8,
+            "player": "Luis Suárez",
+            "team": "Uruguay",
+            "goals": 3
+        },
+        {
+            "rank": 9,
+            "player": "Miroslav Klose",
+            "team": "Alemania",
+            "goals": 4
+        },
+        {
+            "rank": 10,
+            "player": "Landon Donovan",
+            "team": "Estados Unidos",
+            "goals": 3
+        }
+    ]
+}
