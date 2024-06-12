@@ -1,0 +1,252 @@
+{
+    "matches": {
+        "roundOf16": [
+            {
+                "date": "2014-06-28",
+                "team1": "Brazil",
+                "team2": "Chile",
+                "score": "1-1 (3-2 pen)",
+                "stadium": "Estádio Mineirão, Belo Horizonte",
+                "goals": {
+                    "Brazil": ["David Luiz"],
+                    "Chile": ["Alexis Sánchez"]
+                }
+            },
+            {
+                "date": "2014-06-28",
+                "team1": "Colombia",
+                "team2": "Uruguay",
+                "score": "2-0",
+                "stadium": "Maracanã, Rio de Janeiro",
+                "goals": {
+                    "Colombia": ["James Rodríguez (2)"],
+                    "Uruguay": []
+                }
+            },
+            {
+                "date": "2014-06-29",
+                "team1": "Netherlands",
+                "team2": "Mexico",
+                "score": "2-1",
+                "stadium": "Arena Castelão, Fortaleza",
+                "goals": {
+                    "Netherlands": ["Wesley Sneijder", "Klaas-Jan Huntelaar"],
+                    "Mexico": ["Giovani dos Santos"]
+                }
+            },
+            {
+                "date": "2014-06-29",
+                "team1": "Costa Rica",
+                "team2": "Greece",
+                "score": "1-1 (5-3 pen)",
+                "stadium": "Arena Pernambuco, Recife",
+                "goals": {
+                    "Costa Rica": ["Bryan Ruiz"],
+                    "Greece": ["Sokratis Papastathopoulos"]
+                }
+            },
+            {
+                "date": "2014-06-30",
+                "team1": "France",
+                "team2": "Nigeria",
+                "score": "2-0",
+                "stadium": "Estádio Nacional Mané Garrincha, Brasília",
+                "goals": {
+                    "France": ["Paul Pogba", "Joseph Yobo (own goal)"],
+                    "Nigeria": []
+                }
+            },
+            {
+                "date": "2014-06-30",
+                "team1": "Germany",
+                "team2": "Algeria",
+                "score": "2-1",
+                "stadium": "Estádio Beira-Rio, Porto Alegre",
+                "goals": {
+                    "Germany": ["André Schürrle", "Mesut Özil"],
+                    "Algeria": ["Abdelmoumene Djabou"]
+                }
+            },
+            {
+                "date": "2014-07-01",
+                "team1": "Argentina",
+                "team2": "Switzerland",
+                "score": "1-0",
+                "stadium": "Arena Corinthians, São Paulo",
+                "goals": {
+                    "Argentina": ["Ángel Di María"],
+                    "Switzerland": []
+                }
+            },
+            {
+                "date": "2014-07-01",
+                "team1": "Belgium",
+                "team2": "USA",
+                "score": "2-1",
+                "stadium": "Arena Fonte Nova, Salvador",
+                "goals": {
+                    "Belgium": ["Kevin De Bruyne", "Romelu Lukaku"],
+                    "USA": ["Julian Green"]
+                }
+            }
+        ],
+        "quarterFinals": [
+            {
+                "date": "2014-07-04",
+                "team1": "France",
+                "team2": "Germany",
+                "score": "0-1",
+                "stadium": "Maracanã, Rio de Janeiro",
+                "goals": {
+                    "France": [],
+                    "Germany": ["Mats Hummels"]
+                }
+            },
+            {
+                "date": "2014-07-04",
+                "team1": "Brazil",
+                "team2": "Colombia",
+                "score": "2-1",
+                "stadium": "Estádio Castelão, Fortaleza",
+                "goals": {
+                    "Brazil": ["Thiago Silva", "David Luiz"],
+                    "Colombia": ["James Rodríguez"]
+                }
+            },
+            {
+                "date": "2014-07-05",
+                "team1": "Argentina",
+                "team2": "Belgium",
+                "score": "1-0",
+                "stadium": "Estádio Nacional Mané Garrincha, Brasília",
+                "goals": {
+                    "Argentina": ["Gonzalo Higuaín"],
+                    "Belgium": []
+                }
+            },
+            {
+                "date": "2014-07-05",
+                "team1": "Netherlands",
+                "team2": "Costa Rica",
+                "score": "0-0 (4-3 pen)",
+                "stadium": "Arena Fonte Nova, Salvador",
+                "goals": {
+                    "Netherlands": [],
+                    "Costa Rica": []
+                }
+            }
+        ],
+        "semiFinals": [
+            {
+                "date": "2014-07-08",
+                "team1": "Brazil",
+                "team2": "Germany",
+                "score": "1-7",
+                "stadium": "Estádio Mineirão, Belo Horizonte",
+                "goals": {
+                    "Brazil": ["Oscar"],
+                    "Germany": ["Thomas Müller", "Miroslav Klose", "Toni Kroos (2)", "Sami Khedira", "André Schürrle (2)"]
+                }
+            },
+            {
+                "date": "2014-07-09",
+                "team1": "Netherlands",
+                "team2": "Argentina",
+                "score": "0-0 (2-4 pen)",
+                "stadium": "Arena Corinthians, São Paulo",
+                "goals": {
+                    "Netherlands": [],
+                    "Argentina": []
+                }
+            }
+        ],
+        "thirdPlace": [
+            {
+                "date": "2014-07-12",
+                "team1": "Brazil",
+                "team2": "Netherlands",
+                "score": "0-3",
+                "stadium": "Estádio Nacional Mané Garrincha, Brasília",
+                "goals": {
+                    "Brazil": [],
+                    "Netherlands": ["Robin van Persie", "Daley Blind", "Georginio Wijnaldum"]
+                }
+            }
+        ],
+        "final": [
+            {
+                "date": "2014-07-13",
+                "team1": "Germany",
+                "team2": "Argentina",
+                "score": "1-0",
+                "stadium": "Maracanã, Rio de Janeiro",
+                "goals": {
+                    "Germany": ["Mario Götze"],
+                    "Argentina": []
+                }
+            }
+        ]
+    },
+    "topScorers": [
+        {
+            "rank": 1,
+            "player": "James Rodríguez",
+            "team": "Colombia",
+            "goals": 6
+        },
+        {
+            "rank": 2,
+            "player": "Thomas Müller",
+            "team": "Germany",
+            "goals": 5
+        },
+        {
+            "rank": 3,
+            "player": "Lionel Messi",
+            "team": "Argentina",
+            "goals": 4
+        },
+        {
+            "rank": 4,
+            "player": "Neymar",
+            "team": "Brazil",
+            "goals": 4
+        },
+        {
+            "rank": 5,
+            "player": "Robin van Persie",
+            "team": "Netherlands",
+            "goals": 4
+        }
+        {
+            "rank": 6,
+            "player": "Arjen Robben",
+            "team": "Netherlands",
+            "goals": 3
+        }
+        {
+            "rank": 7,
+            "player": "Karim Benzema",
+            "team": "France",
+            "goals": 3
+        }
+        {
+            "rank": 8,
+            "player": "Andre Schurrle",
+            "team": "Germany",
+            "goals": 3
+        }
+        {
+            "rank": 9,
+            "player": "Enner Valencia",
+            "team": "Ecuador",
+            "goals": 3
+        }
+        {
+            "rank": 10,
+            "player": "Xherdan Shaqiri",
+            "team": "Suitzerland",
+            "goals": 3
+        }
+    ]
+}
