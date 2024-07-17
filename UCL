@@ -54,7 +54,7 @@
                     "stadium": "Santiago Bernabéu, Madrid",
                     "goals": {
                         "Real Madrid": ["Isco"],
-                        "Manchester City": ["Gabriel Jesus", "Kevin De Bruyne (penalty)"]
+                        "Manchester City": ["Gabriel Jesus", "Kevin De Bruyne (p)"]
                     }
                 },
                 {
@@ -133,7 +133,7 @@
                     "stadium": "Estádio José Alvalade, Lisbon",
                     "goals": {
                         "RB Leipzig": ["Dani Olmo", "Tyler Adams"],
-                        "Atletico Madrid": ["João Félix (penalty)"]
+                        "Atletico Madrid": ["João Félix (p)"]
                     }
                 }
             ],
@@ -250,7 +250,7 @@
                     "score": "1-4",
                     "stadium": "Camp Nou, Barcelona",
                     "goals": {
-                        "Barcelona": ["Lionel Messi (penalty)"],
+                        "Barcelona": ["Lionel Messi (p)"],
                         "Paris Saint-Germain": ["Kylian Mbappe (3)", "Moise Kean"]
                     }
                 },
@@ -647,7 +647,7 @@
                     "stadium": "Estádio da Luz, Lisbon",
                     "goals": {
                         "Benfica": [],
-                        "Inter Milan": ["Nicolo Barella", "Romelu Lukaku (penalty)"]
+                        "Inter Milan": ["Nicolo Barella", "Romelu Lukaku (p)"]
                     }
                 },
                 {
