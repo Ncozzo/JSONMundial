@@ -1,0 +1,696 @@
+{
+    "matches": {
+        "2019-2020": {
+            "roundOf16": [
+                {
+                    "date": "2020-02-18",
+                    "team1": "Atletico Madrid",
+                    "team2": "Liverpool",
+                    "score": "1-0",
+                    "stadium": "Wanda Metropolitano, Madrid",
+                    "goals": {
+                        "Atletico Madrid": ["Saúl Ñíguez"],
+                        "Liverpool": []
+                    }
+                },
+                {
+                    "date": "2020-02-19",
+                    "team1": "Atalanta",
+                    "team2": "Valencia",
+                    "score": "4-1",
+                    "stadium": "San Siro, Milan",
+                    "goals": {
+                        "Atalanta": ["Hans Hateboer (2)", "Josip Iličić", "Remo Freuler"],
+                        "Valencia": ["Denis Cheryshev"]
+                    }
+                },
+                {
+                    "date": "2020-02-19",
+                    "team1": "Tottenham",
+                    "team2": "RB Leipzig",
+                    "score": "0-1",
+                    "stadium": "Tottenham Hotspur Stadium, London",
+                    "goals": {
+                        "Tottenham": [],
+                        "RB Leipzig": ["Timo Werner"]
+                    }
+                },
+                {
+                    "date": "2020-02-25",
+                    "team1": "Chelsea",
+                    "team2": "Bayern Munich",
+                    "score": "0-3",
+                    "stadium": "Stamford Bridge, London",
+                    "goals": {
+                        "Chelsea": [],
+                        "Bayern Munich": ["Serge Gnabry (2)", "Robert Lewandowski"]
+                    }
+                },
+                {
+                    "date": "2020-02-26",
+                    "team1": "Real Madrid",
+                    "team2": "Manchester City",
+                    "score": "1-2",
+                    "stadium": "Santiago Bernabéu, Madrid",
+                    "goals": {
+                        "Real Madrid": ["Isco"],
+                        "Manchester City": ["Gabriel Jesus", "Kevin De Bruyne (p)"]
+                    }
+                },
+                {
+                    "date": "2020-02-26",
+                    "team1": "Lyon",
+                    "team2": "Juventus",
+                    "score": "1-0",
+                    "stadium": "Groupama Stadium, Lyon",
+                    "goals": {
+                        "Lyon": ["Lucas Tousart"],
+                        "Juventus": []
+                    }
+                },
+                {
+                    "date": "2020-02-18",
+                    "team1": "Borussia Dortmund",
+                    "team2": "Paris Saint-Germain",
+                    "score": "2-1",
+                    "stadium": "Signal Iduna Park, Dortmund",
+                    "goals": {
+                        "Borussia Dortmund": ["Erling Haaland (2)"],
+                        "Paris Saint-Germain": ["Neymar"]
+                    }
+                },
+                {
+                    "date": "2020-02-25",
+                    "team1": "Napoli",
+                    "team2": "Barcelona",
+                    "score": "1-1",
+                    "stadium": "Stadio San Paolo, Naples",
+                    "goals": {
+                        "Napoli": ["Dries Mertens"],
+                        "Barcelona": ["Antoine Griezmann"]
+                    }
+                }
+            ],
+            "quarterFinals": [
+                {
+                    "date": "2020-08-12",
+                    "team1": "Atalanta",
+                    "team2": "Paris Saint-Germain",
+                    "score": "1-2",
+                    "stadium": "Estádio da Luz, Lisbon",
+                    "goals": {
+                        "Atalanta": ["Mario Pašalić"],
+                        "Paris Saint-Germain": ["Marquinhos", "Eric Maxim Choupo-Moting"]
+                    }
+                },
+                {
+                    "date": "2020-08-14",
+                    "team1": "Barcelona",
+                    "team2": "Bayern Munich",
+                    "score": "2-8",
+                    "stadium": "Estádio da Luz, Lisbon",
+                    "goals": {
+                        "Barcelona": ["Luis Suárez", "David Alaba (own goal)"],
+                        "Bayern Munich": ["Thomas Müller (2)", "Ivan Perišić", "Serge Gnabry", "Joshua Kimmich", "Robert Lewandowski", "Philippe Coutinho (2)"]
+                    }
+                },
+                {
+                    "date": "2020-08-15",
+                    "team1": "Manchester City",
+                    "team2": "Lyon",
+                    "score": "1-3",
+                    "stadium": "Estádio José Alvalade, Lisbon",
+                    "goals": {
+                        "Manchester City": ["Kevin De Bruyne"],
+                        "Lyon": ["Maxwel Cornet", "Moussa Dembélé (2)"]
+                    }
+                },
+                {
+                    "date": "2020-08-13",
+                    "team1": "RB Leipzig",
+                    "team2": "Atletico Madrid",
+                    "score": "2-1",
+                    "stadium": "Estádio José Alvalade, Lisbon",
+                    "goals": {
+                        "RB Leipzig": ["Dani Olmo", "Tyler Adams"],
+                        "Atletico Madrid": ["João Félix (p)"]
+                    }
+                }
+            ],
+            "semiFinals": [
+                {
+                    "date": "2020-08-18",
+                    "team1": "RB Leipzig",
+                    "team2": "Paris Saint-Germain",
+                    "score": "0-3",
+                    "stadium": "Estádio da Luz, Lisbon",
+                    "goals": {
+                        "RB Leipzig": [],
+                        "Paris Saint-Germain": ["Marquinhos", "Ángel Di María", "Juan Bernat"]
+                    }
+                },
+                {
+                    "date": "2020-08-19",
+                    "team1": "Lyon",
+                    "team2": "Bayern Munich",
+                    "score": "0-3",
+                    "stadium": "Estádio José Alvalade, Lisbon",
+                    "goals": {
+                        "Lyon": [],
+                        "Bayern Munich": ["Serge Gnabry (2)", "Robert Lewandowski"]
+                    }
+                }
+            ],
+            "final": [
+                {
+                    "date": "2020-08-23",
+                    "team1": "Paris Saint-Germain",
+                    "team2": "Bayern Munich",
+                    "score": "0-1",
+                    "stadium": "Estádio da Luz, Lisbon",
+                    "goals": {
+                        "Paris Saint-Germain": [],
+                        "Bayern Munich": ["Kingsley Coman"]
+                    }
+                }
+            ]
+        },
+        "2020-2021": {
+            "roundOf16": [
+                {
+                    "date": "2021-02-16",
+                    "team1": "RB Leipzig",
+                    "team2": "Liverpool",
+                    "score": "0-2",
+                    "stadium": "Puskás Aréna, Budapest",
+                    "goals": {
+                        "RB Leipzig": [],
+                        "Liverpool": ["Mohamed Salah", "Sadio Mané"]
+                    }
+                },
+                {
+                    "date": "2021-02-17",
+                    "team1": "Sevilla",
+                    "team2": "Borussia Dortmund",
+                    "score": "2-3",
+                    "stadium": "Ramón Sánchez Pizjuán, Seville",
+                    "goals": {
+                        "Sevilla": ["Suso", "Luuk de Jong"],
+                        "Borussia Dortmund": ["Erling Haaland (2)", "Mahmoud Dahoud"]
+                    }
+                },
+                {
+                    "date": "2021-02-23",
+                    "team1": "Lazio",
+                    "team2": "Bayern Munich",
+                    "score": "1-4",
+                    "stadium": "Stadio Olimpico, Rome",
+                    "goals": {
+                        "Lazio": ["Francesco Acerbi (own goal)"],
+                        "Bayern Munich": ["Robert Lewandowski", "Jamal Musiala", "Leroy Sané"]
+                    }
+                },
+                {
+                    "date": "2021-02-23",
+                    "team1": "Atletico Madrid",
+                    "team2": "Chelsea",
+                    "score": "0-1",
+                    "stadium": "Arena Națională, Bucharest",
+                    "goals": {
+                        "Atletico Madrid": [],
+                        "Chelsea": ["Olivier Giroud"]
+                    }
+                },
+                {
+                    "date": "2021-02-24",
+                    "team1": "Atalanta",
+                    "team2": "Real Madrid",
+                    "score": "0-1",
+                    "stadium": "Stadio Atleti Azzurri d'Italia, Bergamo",
+                    "goals": {
+                        "Atalanta": [],
+                        "Real Madrid": ["Ferland Mendy"]
+                    }
+                },
+                {
+                    "date": "2021-02-24",
+                    "team1": "Borussia Mönchengladbach",
+                    "team2": "Manchester City",
+                    "score": "0-2",
+                    "stadium": "Puskás Aréna, Budapest",
+                    "goals": {
+                        "Borussia Mönchengladbach": [],
+                        "Manchester City": ["Bernardo Silva", "Gabriel Jesus"]
+                    }
+                },
+                {
+                    "date": "2021-02-16",
+                    "team1": "Barcelona",
+                    "team2": "Paris Saint-Germain",
+                    "score": "1-4",
+                    "stadium": "Camp Nou, Barcelona",
+                    "goals": {
+                        "Barcelona": ["Lionel Messi"],
+                        "Paris Saint-Germain": ["Kylian Mbappé (3)", "Moise Kean"]
+                    }
+                },
+                {
+                    "date": "2021-02-17",
+                    "team1": "FC Porto",
+                    "team2": "Juventus",
+                    "score": "2-1",
+                    "stadium": "Estádio do Dragão, Porto",
+                    "goals": {
+                        "FC Porto": ["Mehdi Taremi", "Moussa Marega"],
+                        "Juventus": ["Federico Chiesa"]
+                    }
+                }
+            ],
+            "quarterFinals": [
+                {
+                    "date": "2021-04-06",
+                    "team1": "Real Madrid",
+                    "team2": "Liverpool",
+                    "score": "3-1",
+                    "stadium": "Alfredo Di Stéfano Stadium, Madrid",
+                    "goals": {
+                        "Real Madrid": ["Vinícius Júnior (2)", "Marco Asensio"],
+                        "Liverpool": ["Mohamed Salah"]
+                    }
+                },
+                {
+                    "date": "2021-04-07",
+                    "team1": "Bayern Munich",
+                    "team2": "Paris Saint-Germain",
+                    "score": "2-3",
+                    "stadium": "Allianz Arena, Munich",
+                    "goals": {
+                        "Bayern Munich": ["Eric Maxim Choupo-Moting", "Thomas Müller"],
+                        "Paris Saint-Germain": ["Kylian Mbappé (2)", "Marquinhos"]
+                    }
+                },
+                {
+                    "date": "2021-04-06",
+                    "team1": "Manchester City",
+                    "team2": "Borussia Dortmund",
+                    "score": "2-1",
+                    "stadium": "Etihad Stadium, Manchester",
+                    "goals": {
+                        "Manchester City": ["Kevin De Bruyne", "Phil Foden"],
+                        "Borussia Dortmund": ["Marco Reus"]
+                    }
+                },
+                {
+                    "date": "2021-04-07",
+                    "team1": "FC Porto",
+                    "team2": "Chelsea",
+                    "score": "0-2",
+                    "stadium": "Estádio do Dragão, Porto",
+                    "goals": {
+                        "FC Porto": [],
+                        "Chelsea": ["Mason Mount", "Ben Chilwell"]
+                    }
+                }
+            ],
+            "semiFinals": [
+                {
+                    "date": "2021-04-27",
+                    "team1": "Real Madrid",
+                    "team2": "Chelsea",
+                    "score": "1-1",
+                    "stadium": "Alfredo Di Stéfano Stadium, Madrid",
+                    "goals": {
+                        "Real Madrid": ["Karim Benzema"],
+                        "Chelsea": ["Christian Pulisic"]
+                    }
+                },
+                {
+                    "date": "2021-04-28",
+                    "team1": "Paris Saint-Germain",
+                    "team2": "Manchester City",
+                    "score": "1-2",
+                    "stadium": "Parc des Princes, Paris",
+                    "goals": {
+                        "Paris Saint-Germain": ["Marquinhos"],
+                        "Manchester City": ["Kevin De Bruyne", "Riyad Mahrez"]
+                    }
+                }
+            ],
+            "final": [
+                {
+                    "date": "2021-05-29",
+                    "team1": "Manchester City",
+                    "team2": "Chelsea",
+                    "score": "0-1",
+                    "stadium": "Estádio do Dragão, Porto",
+                    "goals": {
+                        "Manchester City": [],
+                        "Chelsea": ["Kai Havertz"]
+                    }
+                }
+            ]
+        },
+        "2021-2022": {
+            "roundOf16": [
+                {
+                    "date": "2022-02-15",
+                    "team1": "Paris Saint-Germain",
+                    "team2": "Real Madrid",
+                    "score": "1-0",
+                    "stadium": "Parc des Princes, Paris",
+                    "goals": {
+                        "Paris Saint-Germain": ["Kylian Mbappé"],
+                        "Real Madrid": []
+                    }
+                },
+                {
+                    "date": "2022-02-16",
+                    "team1": "Inter Milan",
+                    "team2": "Liverpool",
+                    "score": "0-2",
+                    "stadium": "San Siro, Milan",
+                    "goals": {
+                        "Inter Milan": [],
+                        "Liverpool": ["Roberto Firmino", "Mohamed Salah"]
+                    }
+                },
+                {
+                    "date": "2022-02-22",
+                    "team1": "Chelsea",
+                    "team2": "Lille",
+                    "score": "2-0",
+                    "stadium": "Stamford Bridge, London",
+                    "goals": {
+                        "Chelsea": ["Kai Havertz", "Christian Pulisic"]
+                    }
+                },
+                {
+                    "date": "2022-02-23",
+                    "team1": "Atletico Madrid",
+                    "team2": "Manchester United",
+                    "score": "1-1",
+                    "stadium": "Wanda Metropolitano, Madrid",
+                    "goals": {
+                        "Atletico Madrid": ["João Félix"],
+                        "Manchester United": ["Anthony Elanga"]
+                    }
+                },
+                {
+                    "date": "2022-02-15",
+                    "team1": "Sporting CP",
+                    "team2": "Manchester City",
+                    "score": "0-5",
+                    "stadium": "Estádio José Alvalade, Lisbon",
+                    "goals": {
+                        "Sporting CP": [],
+                        "Manchester City": ["Riyad Mahrez", "Bernardo Silva (2)", "Phil Foden", "Raheem Sterling"]
+                    }
+                },
+                {
+                    "date": "2022-02-16",
+                    "team1": "Salzburg",
+                    "team2": "Bayern Munich",
+                    "score": "1-1",
+                    "stadium": "Red Bull Arena, Salzburg",
+                    "goals": {
+                        "Salzburg": ["Chukwubuike Adamu"],
+                        "Bayern Munich": ["Kingsley Coman"]
+                    }
+                },
+                {
+                    "date": "2022-02-22",
+                    "team1": "Villarreal",
+                    "team2": "Juventus",
+                    "score": "1-1",
+                    "stadium": "Estadio de la Cerámica, Villarreal",
+                    "goals": {
+                        "Villarreal": ["Dani Parejo"],
+                        "Juventus": ["Dusan Vlahovic"]
+                    }
+                },
+                {
+                    "date": "2022-02-23",
+                    "team1": "Benfica",
+                    "team2": "Ajax",
+                    "score": "2-2",
+                    "stadium": "Estádio da Luz, Lisbon",
+                    "goals": {
+                        "Benfica": ["Sebastián Haller (own goal)", "Roman Yaremchuk"],
+                        "Ajax": ["Dusan Tadic", "Sebastián Haller"]
+                    }
+                }
+            ],
+            "quarterFinals": [
+                {
+                    "date": "2022-04-05",
+                    "team1": "Manchester City",
+                    "team2": "Atletico Madrid",
+                    "score": "1-0",
+                    "stadium": "Etihad Stadium, Manchester",
+                    "goals": {
+                        "Manchester City": ["Kevin De Bruyne"],
+                        "Atletico Madrid": []
+                    }
+                },
+                {
+                    "date": "2022-04-06",
+                    "team1": "Chelsea",
+                    "team2": "Real Madrid",
+                    "score": "1-3",
+                    "stadium": "Stamford Bridge, London",
+                    "goals": {
+                        "Chelsea": ["Kai Havertz"],
+                        "Real Madrid": ["Karim Benzema (3)"]
+                    }
+                },
+                {
+                    "date": "2022-04-05",
+                    "team1": "Benfica",
+                    "team2": "Liverpool",
+                    "score": "1-3",
+                    "stadium": "Estádio da Luz, Lisbon",
+                    "goals": {
+                        "Benfica": ["Darwin Núñez"],
+                        "Liverpool": ["Ibrahima Konaté", "Sadio Mané", "Luis Díaz"]
+                    }
+                },
+                {
+                    "date": "2022-04-06",
+                    "team1": "Villarreal",
+                    "team2": "Bayern Munich",
+                    "score": "1-0",
+                    "stadium": "Estadio de la Cerámica, Villarreal",
+                    "goals": {
+                        "Villarreal": ["Arnaut Danjuma"]
+                    }
+                }
+            ],
+            "semiFinals": [
+                {
+                    "date": "2022-04-26",
+                    "team1": "Manchester City",
+                    "team2": "Real Madrid",
+                    "score": "4-3",
+                    "stadium": "Etihad Stadium, Manchester",
+                    "goals": {
+                        "Manchester City": ["Kevin De Bruyne", "Gabriel Jesus", "Phil Foden", "Bernardo Silva"],
+                        "Real Madrid": ["Karim Benzema (2)", "Vinícius Júnior"]
+                    }
+                },
+                {
+                    "date": "2022-04-27",
+                    "team1": "Liverpool",
+                    "team2": "Villarreal",
+                    "score": "2-0",
+                    "stadium": "Anfield, Liverpool",
+                    "goals": {
+                        "Liverpool": ["Jordan Henderson", "Sadio Mané"],
+                        "Villarreal": []
+                    }
+                }
+            ],
+            "final": [
+                {
+                    "date": "2022-05-28",
+                    "team1": "Liverpool",
+                    "team2": "Real Madrid",
+                    "score": "0-1",
+                    "stadium": "Stade de France, Saint-Denis",
+                    "goals": {
+                        "Liverpool": [],
+                        "Real Madrid": ["Vinícius Júnior"]
+                    }
+                }
+            ]
+        },
+        "2022-2023": {
+            "roundOf16": [
+                {
+                    "date": "2023-02-14",
+                    "team1": "Paris Saint-Germain",
+                    "team2": "Bayern Munich",
+                    "score": "0-1",
+                    "stadium": "Parc des Princes, Paris",
+                    "goals": {
+                        "Paris Saint-Germain": [],
+                        "Bayern Munich": ["Kingsley Coman"]
+                    }
+                },
+                {
+                    "date": "2023-02-14",
+                    "team1": "AC Milan",
+                    "team2": "Tottenham Hotspur",
+                    "score": "1-0",
+                    "stadium": "San Siro, Milan",
+                    "goals": {
+                        "AC Milan": ["Brahim Díaz"]
+                    }
+                },
+                {
+                    "date": "2023-02-15",
+                    "team1": "Borussia Dortmund",
+                    "team2": "Chelsea",
+                    "score": "1-0",
+                    "stadium": "Signal Iduna Park, Dortmund",
+                    "goals": {
+                        "Borussia Dortmund": ["Karim Adeyemi"]
+                    }
+                },
+                {
+                    "date": "2023-02-15",
+                    "team1": "Club Brugge",
+                    "team2": "Benfica",
+                    "score": "0-2",
+                    "stadium": "Jan Breydel Stadium, Brugge",
+                    "goals": {
+                        "Club Brugge": [],
+                        "Benfica": ["João Mário", "David Neres"]
+                    }
+                },
+                {
+                    "date": "2023-02-21",
+                    "team1": "Liverpool",
+                    "team2": "Real Madrid",
+                    "score": "2-5",
+                    "stadium": "Anfield, Liverpool",
+                    "goals": {
+                        "Liverpool": ["Darwin Núñez", "Mohamed Salah"],
+                        "Real Madrid": ["Vinícius Júnior (2)", "Éder Militão", "Karim Benzema (2)"]
+                    }
+                },
+                {
+                    "date": "2023-02-21",
+                    "team1": "Eintracht Frankfurt",
+                    "team2": "Napoli",
+                    "score": "0-2",
+                    "stadium": "Deutsche Bank Park, Frankfurt",
+                    "goals": {
+                        "Eintracht Frankfurt": [],
+                        "Napoli": ["Victor Osimhen", "Giovanni Di Lorenzo"]
+                    }
+                },
+                {
+                    "date": "2023-02-22",
+                    "team1": "Inter Milan",
+                    "team2": "FC Porto",
+                    "score": "1-0",
+                    "stadium": "San Siro, Milan",
+                    "goals": {
+                        "Inter Milan": ["Romelu Lukaku"]
+                    }
+                },
+                {
+                    "date": "2023-02-22",
+                    "team1": "RB Leipzig",
+                    "team2": "Manchester City",
+                    "score": "1-1",
+                    "stadium": "Red Bull Arena, Leipzig",
+                    "goals": {
+                        "RB Leipzig": ["Josko Gvardiol"],
+                        "Manchester City": ["Riyad Mahrez"]
+                    }
+                }
+            ],
+            "quarterFinals": [
+                {
+                    "date": "2023-04-11",
+                    "team1": "Benfica",
+                    "team2": "Inter Milan",
+                    "score": "0-2",
+                    "stadium": "Estádio da Luz, Lisbon",
+                    "goals": {
+                        "Benfica": [],
+                        "Inter Milan": ["Nicolo Barella", "Romelu Lukaku"]
+                    }
+                },
+                {
+                    "date": "2023-04-11",
+                    "team1": "Manchester City",
+                    "team2": "Bayern Munich",
+                    "score": "3-0",
+                    "stadium": "Etihad Stadium, Manchester",
+                    "goals": {
+                        "Manchester City": ["Rodri", "Bernardo Silva", "Erling Haaland"]
+                    }
+                },
+                {
+                    "date": "2023-04-12",
+                    "team1": "Real Madrid",
+                    "team2": "Chelsea",
+                    "score": "2-0",
+                    "stadium": "Santiago Bernabéu, Madrid",
+                    "goals": {
+                        "Real Madrid": ["Karim Benzema", "Marco Asensio"]
+                    }
+                },
+                {
+                    "date": "2023-04-12",
+                    "team1": "AC Milan",
+                    "team2": "Napoli",
+                    "score": "1-0",
+                    "stadium": "San Siro, Milan",
+                    "goals": {
+                        "AC Milan": ["Ismaël Bennacer"]
+                    }
+                }
+            ],
+            "semiFinals": [
+                {
+                    "date": "2023-05-09",
+                    "team1": "Real Madrid",
+                    "team2": "Manchester City",
+                    "score": "1-1",
+                    "stadium": "Santiago Bernabéu, Madrid",
+                    "goals": {
+                        "Real Madrid": ["Vinícius Júnior"],
+                        "Manchester City": ["Kevin De Bruyne"]
+                    }
+                },
+                {
+                    "date": "2023-05-10",
+                    "team1": "AC Milan",
+                    "team2": "Inter Milan",
+                    "score": "0-2",
+                    "stadium": "San Siro, Milan",
+                    "goals": {
+                        "AC Milan": [],
+                        "Inter Milan": ["Edin Dzeko", "Henrikh Mkhitaryan"]
+                    }
+                }
+            ],
+            "final": [
+                {
+                    "date": "2023-06-10",
+                    "team1": "Manchester City",
+                    "team2": "Inter Milan",
+                    "score": "1-0",
+                    "stadium": "Atatürk Olympic Stadium, Istanbul",
+                    "goals": {
+                        "Manchester City": ["Rodri"],
+                        "Inter Milan": []
+                    }
+                }
+            ]
+        }
+    }
+}
