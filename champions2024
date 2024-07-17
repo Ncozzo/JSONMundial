@@ -1,0 +1,209 @@
+{
+    "matches": {
+        "roundOf16": [
+            {
+                "date": "2024-03-17",
+                "team1": "Manchester City",
+                "team2": "Copenhague",
+                "score": "3-1",
+                "stadium": "Etihad Stadium, Manchester",
+                "goals": {
+                    "Manchester City": ["Erling Haaland (x2)", "Kevin De Bruyne"],
+                    "Copenhague": ["Roony Bardghji"]
+                }
+            },
+            {
+                "date": "2024-03-11",
+                "team1": "Real Madrid",
+                "team2": "Leipzig",
+                "score": "2-1",
+                "stadium": "Santiago Bernabeu, Madrid",
+                "goals": {
+                    "Real Madrid": ["Vinicius Junior", "Antonio Rudiger"],
+                    "Leipzig": ["Dani Olmo"]
+                }
+            },
+            {
+                "date": "2024-03-18",
+                "team1": "Bayern Munich",
+                "team2": "Lazio",
+                "score": "3-1",
+                "stadium": "Allianz Arena, Munich",
+                "goals": {
+                    "Bayern Munich": ["Harry Kane (x2)", "Jamal Musiala"],
+                    "Lazio": ["Ciro Immobile"]
+                }
+            },
+            {
+                "date": "2024-03-17",
+                "team1": "Arsenal",
+                "team2": "Porto",
+                "score": "2-1",
+                "stadium": "Emirates Stadium, Londres",
+                "goals": {
+                    "Arsenal": ["Bukayo Saka (x2)"],
+                    "Porto": ["Wenderson Galeno"]
+                }
+            },
+            {
+                "date": "2024-03-18",
+                "team1": "Barcelona",
+                "team2": "Napoli",
+                "score": "3-1",
+                "stadium": "Montjuic, Barcelona",
+                "goals": {
+                    "Barcelona": ["Robert Lewandowski", "Ronald Araujo", "Pedri"],
+                    "Napoli": ["Victor Osimhen"]
+                }
+            },
+            {
+                "date": "2024-03-11",
+                "team1": "Paris Saint Germain",
+                "team2": "Real Sociedad",
+                "score": "3-1",
+                "stadium": "Parc des Princes, Paris",
+                "goals": {
+                    "Paris Saint Germain": ["Kylian Mbappe (x2)", "Bradley Barcola"],
+                    "Real Sociedad": ["Mikel Merino"]
+                }
+            },
+            {
+                "date": "2024-03-10",
+                "team1": "Borussia Dortmund",
+                "team2": "PSV",
+                "score": "3-2",
+                "stadium": "Signal Indunda Park, Dortmund",
+                "goals": {
+                    "Borussia Dortmund": ["Karim Adeyemi (x2)", "Niklas Fullkrug"],
+                    "PSV": ["Luuk de Jong (x2)"]
+                }
+            },
+            {
+                "date": "2024-03-18",
+                "team1": "Atletico Madrid",
+                "team2": "Inter",
+                "score": "1-1 (4-2 pen)",
+                "stadium": "Wanda Metropolitano, Madrid",
+                "goals": {
+                    "Atletico Madrid": ["Memphis Depay"],
+                    "Inter": ["Marcus Thuram"]
+                }
+            }
+        ],
+        "quarterFinals": [
+            {
+                "date": "2024-04-21",
+                "team1": "Manchester City",
+                "team2": "Real Madrid",
+                "score": "1-1 (2-4 pen)",
+                "stadium": "Etihad Stadium, Manchester",
+                "goals": {
+                    "Manchester City": ["Kevin De Bruyne"],
+                    "Real Madrid": ["Jude Bellingham"]
+                }
+            },
+            {
+                "date": "2024-04-22",
+                "team1": "Bayern Muncih",
+                "team2": "Arsenal",
+                "score": "2-1",
+                "stadium": "Allianz Arena, Munich",
+                "goals": {
+                    "Bayern Munich": ["Leroy Sane", "Harry Kane"],
+                    "Arsenal": ["Bukayo Saka"]
+                }
+            },
+            {
+                "date": "2024-04-22",
+                "team1": "Barcelona",
+                "team2": "Paris Saint Germain",
+                "score": "2-4",
+                "stadium": "Montjuic, Barcelona",
+                "goals": {
+                    "Barcelona": ["Raphinha", "Robert Lewandowski"],
+                    "Paris Saint Germain": ["Kylian Mbappe (x2)", "Vitinha", "Ousmane Dembele"]
+                }
+            },
+            {
+                "date": "2024-04-22",
+                "team1": "Borussia Dortmund",
+                "team2": "Atletico Madrid",
+                "score": "4-3",
+                "stadium": "Signal Induna Park, Dortmund",
+                "goals": {
+                    "Borussia Dortmund": ["Niklas Fullkrug (x2)", "Julian Brandt", "Karim Adeyemi"],
+                    "Atletico Madrid": ["Antoine Griezmann", "Angel Correa", "Rodrigo De Paul"]
+                }
+            }
+        ],
+        "semiFinals": [
+            {
+                "date": "2024-05-06",
+                "team1": "Real Madrid",
+                "team2": "Bayern Munich",
+                "score": "3-2",
+                "stadium": "Santiago Bernabeu, Madrid",
+                "goals": {
+                    "Real Madrid": ["Joselu (x2)", "Vinicius Junior"],
+                    "Bayern Munich": ["Harry Kane", "Leroy Sane", "Alphonso Davies"]
+                }
+            },
+            {
+                "date": "2024-05-13",
+                "team1": "Paris Saint Germain",
+                "team2": "Borussia Dortmund",
+                "score": "0-2",
+                "stadium": "Parc des Princes, Dortmund",
+                "goals": {
+                    "Paris Saint Germain": [],
+                    "Borussia Dortmund": ["Mats Hummels", "Ian Maatsen"]
+                }
+            }
+        ],
+        "final": [
+            {
+                "date": "2024-06-06",
+                "team1": "Real Madrid",
+                "team2": "Borussia Dortmund",
+                "score": "2-0",
+                "stadium": "Wembley, Londres",
+                "goals": {
+                    "Real Madrid": ["Dani Carvajal", "Vinicius Junior"],
+                    "Borussia Dortmund": []
+                }
+            }
+        ]
+    },
+    "topScorers": [
+        {
+            "rank": 1,
+            "player": "Harry Kane",
+            "team": "Bayern Munich",
+            "goals": 8
+        },
+        {
+            "rank": 2,
+            "player": "Kylian Mbappe",
+            "team": "Paris Saint Germain",
+            "goals": 8
+        },
+        {
+            "rank": 3,
+            "player": "Erling Haaland",
+            "team": "Manchester City",
+            "goals": 6
+        },
+        {
+            "rank": 4,
+            "player": "Vinicius Junior",
+            "team": "Real Madrid",
+            "goals": 6
+        },
+        {
+            "rank": 5,
+            "player": "Anotine Griezmann",
+            "team": "Atletico Madrid",
+            "goals": 6
+        }
+    ]
+}
